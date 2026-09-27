@@ -62,5 +62,5 @@ Unity IAP および Unity Gaming Services の基盤機能は、動作のため�
 本ポリシーおよび本アプリにおける情報の取り扱いに関するお問い合わせは、次の窓口までご連絡ください。
 
 - 運営者：Smidem
-- メールアドレス：youtaichucun@gmail.com
+- メールアドレス：smiskigame@gmail.com
 - サポートページ：https://smiski23.github.io/gamblearrow-support/
